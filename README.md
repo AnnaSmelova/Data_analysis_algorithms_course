@@ -1,1 +1,5 @@
-# Data_analysis_algorithms_course
+# Курс Алгоритмы анализа данных
+
+### Homeworks
+
+Geek University: факультет Искусственного интеллекта
